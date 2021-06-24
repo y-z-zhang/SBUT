@@ -1,6 +1,6 @@
 # Simultaneous block upper triangularization of asymmetric matrices and its applications to cluster synchronization in directed networks
 
-This repository is part of the paper: F. M. Brady, Y. Zhang, and A. E. Motter, _Stability of cluster synchronization in directed networks: Going beyond independent blocks_.
+This repository is part of the paper: F. M. Brady, Y. Zhang, and A. E. Motter, _Forget Partitions: Cluster Synchronization in Directed Networks Generate Hierarchies_.
 
 The repository includes:
 1. `SBUT.py` and `SBUT.ipynb`
